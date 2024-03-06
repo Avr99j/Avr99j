@@ -31,5 +31,5 @@ I am recognized as an AI/ML Alchemist, exploring neural networks, reinforcement 
 Feel free to reach out if you want to collaborate, discuss tech, or just have a friendly chat. I'm always excited about exploring new possibilities and pushing the boundaries of technology!
 
 [LinkedIn](https://www.linkedin.com/in/avraajmatharu/)
-[Portfolio Website](https://avr99j.github.io/Bootstrap-Portfolio/)
+[Portfolio Website](https://avraaj-dev.netlify.app/)
 
