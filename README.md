@@ -2,19 +2,19 @@
 
 ## About Me
 
-I am a passionate and seasoned technologist with expertise in a wide range of technologies. My skills span front-end development with HTML, CSS, JavaScript, ReactJS, jQuery, and Bootstrap, as well as back-end automation using Java, JavaScript, and Python. I specialize in crafting captivating and responsive user interfaces to industry standards.
+I am a seasoned technologist with a comprehensive skill set spanning DevOps Engineering, Software Development, Cloud Platforms, Automation Architecture, Data Science, and Project Management. With a proven track record of delivering high-value projects and leading successful teams, I navigate the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) with precision.
 
-As an automation expert, I excel in developing efficient frameworks and delivering end-to-end solutions seamlessly. My proficiency includes working with tools like Selenium, Appium, Robot, Tosca, POSTMAN, ReadyAPI, MOCHA, CHAI, WebdriverIO, ELK Stack, GitHub Actions, AWS CodeBuild/CodePipeline, AWS S3 Storage & EC2 Management, JIRA, Docker, and more. I navigate both Agile and Waterfall SDLC methodologies with precision, translating requirements into robust automation frameworks and scripts.
+Proficient in Linux (ARM & x86 architecture), Python, and Shell/Bash scripting, I create and maintain Debian (Ubuntu) and RHEL (Fedora, CentOS) based VMs & servers, develop and maintain CI/CD pipelines, and leverage infrastructure as code with Terraform. I am experienced in containerization with Docker and Kubernetes and have expertise in configuration management tools like Ansible.
 
-My expertise extends to data management, extracting insights from MySQL, and facilitating data-driven decision-making. I have implemented Machine Learning models using Python libraries like Scikit-learn and TensorFlow, exploring neural networks, reinforcement learning, and clustering algorithms.
+In Software Development, I am proficient in JavaScript, Node.js, ReactJS, JSX, jQuery, APIs, HTML, CSS, and Bootstrap.
+I have hands-on experience with AWS and Microsoft Azure cloud platforms, as well as various operating systems including Windows, MacOS, and Linux distributions.
 
-## Technical Virtuoso
+In Automation Architecture, I excel in automation testing using Java, Selenium, Appium, BDD with Cucumber and Gherkin, and have knowledge in building CI/CD pipelines. I am well-versed in Agile and Waterfall SDLC methodologies.
 
-Renowned as a Technical Virtuoso, I adeptly navigate the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) with precision. I have a strong background in translating requirements into robust automation frameworks and scripts. My testing proficiency spans tools like Selenium, Appium, Robot, Tosca, POSTMAN, ReadyAPI, MOCHA, CHAI, WebdriverIO, ELK Stack, GitHub Actions, AWS CodeBuild/CodePipeline, AWS S3 Storage & EC2 Management, JIRA, Docker, and more.
+My expertise extends to Data Science, ML, and AI Algorithms, where I leverage Python, Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn, and various machine learning algorithms such as Decision Trees, KNNs, Logistic Regression, Confusion Matrix, SVM, Neural Networks, and CNNs.
 
-## AI/ML Alchemist
+With a focus on continuous improvement and collaboration, I excel in delivering high-value, challenging projects, meeting deadlines, planning, management, stakeholder management, technical responses to RFPs, contributing towards bid work, presentations and managed projects across diverse domains and client portfolios spanning across diverse geographical locations, bringing a wealth of experience in understanding and addressing unique challenges and requirements. I am passionate about leveraging technology to drive innovation and deliver tangible business results.
 
-I am recognized as an AI/ML Alchemist, exploring neural networks, reinforcement learning, and clustering algorithms. My expertise includes implementing Machine Learning models using Python libraries like Scikit-learn and TensorFlow. I provide guidance from fundamentals to advanced topics, excelling in evaluating predictive performance and navigating the landscape of deep learning—a unique blend of technical expertise and innovation for success in dynamic environments.
 
 ## Membership & Representations
 
