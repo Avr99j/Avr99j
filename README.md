@@ -26,10 +26,12 @@ With a focus on continuous improvement and collaboration, I excel in delivering 
   
 - **Member of SogetiLabs UK:** Collaborating with experts to explore emerging technologies, conduct experiments, and shape forward-thinking strategies for Sogeti's technological advancements in the UK.
 
+- **Sogeti UK - Innovation and New Technology Guild Lead**
+
 ## Let's Connect
 
 Feel free to reach out if you want to collaborate, discuss tech, or just have a friendly chat. I'm always excited about exploring new possibilities and pushing the boundaries of technology!
 
 [LinkedIn](https://www.linkedin.com/in/avraajmatharu/)
-[Portfolio Website](https://avraaj-dev.netlify.app/)
+[Portfolio Website](https://avraaj.tech/)
 
